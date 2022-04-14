@@ -3,4 +3,4 @@ From the Sen12MS dataset, first download the folders ROIs1868_summer_s2, ROIs115
 Then run
 $ python multiseasonDatasetMaker.py
 
-As an output, you will get a directory called "multiseasonDatset" which will have four directoruies with images (fall, spring, summer, and winter) and four .txt files (fall.txt, spring.txt, summer.txt, winter.txt).
+As an output, you will get a directory called "multiseasonDatset" which will have four directories with images (fall, spring, summer, and winter) and four .txt files (fall.txt, spring.txt, summer.txt, winter.txt).
