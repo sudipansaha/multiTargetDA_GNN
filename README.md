@@ -1,5 +1,7 @@
 # multiTargetDA_GNN
 
+**Directory "multiSeasonDatasetPreparation"** explains steps to prepare the multi-season dataset.
+**Directory "codeSeasonVariation"** explains steps to run the domain adpatation code.
 
 If you find this code or the "season variation" dataset useful, please cite:
 ### Citation
