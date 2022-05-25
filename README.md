@@ -1,4 +1,4 @@
-# Unsupervised Single-Scene Semantic Segmentation for Earth Observation
+# multiTargetDA_GNN
 
 **Directory "multiSeasonDatasetPreparation"** explains steps to prepare the multi-season dataset.
 
@@ -8,10 +8,12 @@
 ### Citation
 If you find this code or the multi-season dataset useful, please consider citing:
 ```[bibtex]
-@article{saha2022unsupervised,
-  title={Unsupervised Single-Scene Semantic Segmentation for Earth Observation},
-  author={Saha, Sudipan and Shahzad, Muhammad and Mou, Lichao and Song, Qian and Zhu, Xiao Xiang},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
+@article{saha2022multitarget,
+  title={Multitarget Domain Adaptation for Remote Sensing Classification Using Graph Neural Network},
+  author={Saha, Sudipan and Zhao, Shan and Zhu, Xiao Xiang},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  volume={19},
+  pages={1--5},
   year={2022},
   publisher={IEEE}
 }
